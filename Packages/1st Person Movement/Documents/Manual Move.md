@@ -1,4 +1,4 @@
-#First Person Player User Guide
+# First Person Player User Guide
 
 ---
 
@@ -6,14 +6,14 @@ This document explains the behaviours contained in this package and describes ho
 
 ---
 
-#Behaviors
+# Behaviors
 
 - MouseLook
 - PlayerMovement
 
 ---
 
-#MouseLook
+# MouseLook
 
 This scrips should be hooked up to your camera, it will allow the player to look around in a locked FOV. 
 
@@ -21,7 +21,7 @@ To use this script, one will have to attatch it to a camera which is under the c
 
 ---
 
-#PlayerMovement
+# PlayerMovement
 
 This script will allow the player to move around and jump. 
 
