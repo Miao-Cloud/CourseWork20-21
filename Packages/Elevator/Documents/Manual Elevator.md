@@ -25,6 +25,9 @@ For the canvas, add an image, a square will do, place it in the bottom right han
 Now that all this set up is done, once the script is placed on the elevator object, add another box collider to it, put it above the object and set it to is triggered. Now to fill in the slots on the script.
 
 ElevatorPanel = Your elevator pannel
+
 Top = Top transform
+
 Bottom = Bottom transform
+
 Set smooth to 3.
