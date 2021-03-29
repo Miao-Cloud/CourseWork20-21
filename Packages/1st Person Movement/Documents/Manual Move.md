@@ -2,7 +2,7 @@
 
 ---
 
-This document explains the behaviours contained in this package and describes how to use them to create a first person player.
+This document explains the behaviours contained in this package and describes how to use them to create a first person player. It also contains an example scene.
 
 ---
 
