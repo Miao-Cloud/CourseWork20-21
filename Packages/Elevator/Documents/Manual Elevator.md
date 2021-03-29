@@ -2,7 +2,7 @@
 
 ---
 
-This document explains the behaviours contained in this package and describes how to use them to create an elevator.
+This document explains the behaviours contained in this package and describes how to use them to create an elevator. It also contains an example scene.
 
 ---
 
