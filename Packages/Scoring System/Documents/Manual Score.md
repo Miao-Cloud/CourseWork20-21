@@ -18,7 +18,7 @@ This document explains the behaviours contained in this package and describes ho
 
 This scrip will add 1 or how ever many points you wish to the score counter. It will also destroy the object on collision.
 
-This script should be placed on the object you wish to collect.
+This script should be placed on the object you wish to collect. Make sure the collider is set to is triggered.
 
 ---
 
