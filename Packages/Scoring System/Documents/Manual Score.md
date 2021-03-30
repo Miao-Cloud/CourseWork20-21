@@ -26,7 +26,7 @@ This script should be placed on the object you wish to collect. Make sure the co
 
 This script will subtract 1 or how ever many points you wish from the score counter.
 
-This script should be placed on the object recieving the objects you have collected.
+This script should be placed on the object recieving the objects you have collected. Make sure the collider is set to is triggered.
 
 This script is only necessary if you wish to have a collection deposit mechanism.
 
