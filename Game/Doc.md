@@ -1,1 +1,1 @@
-# Game containing all 4 packages.
+# Game containing 4 packages.
